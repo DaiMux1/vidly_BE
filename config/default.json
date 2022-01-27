@@ -1,0 +1,5 @@
+{
+  "jwtPrivateKey": "",
+  "db": "mongodb+srv://dailv:12345@parking-system.viixj.mongodb.net/vidly",
+  "requiresAuth": true
+}
